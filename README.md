@@ -1,4 +1,4 @@
-# Anchisaurus
+# About
 
 WEB API where user can store key-value pairs. Client should be authorized (API KEY should be issued to client) to call endpoints.
 
